@@ -138,7 +138,3 @@ Priyanshu_Darwix/
 ├── requirements.txt
 └── README.md
 ```
-
-## 📄 License
-
-Built for the Darwix AI Hackathon Challenge 1.
