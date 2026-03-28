@@ -40,7 +40,7 @@ Text Input → Emotion Detection (VADER) → Voice Mapping → TTS Synthesis (py
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/priyanshyou/Emotion-vision-engine.git>
 cd Priyanshu_Darwix
 
 # Install dependencies
