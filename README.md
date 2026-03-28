@@ -2,8 +2,6 @@
 
 A comprehensive service that combines **Emotion-Driven Neural Voice Synthesis** with **Automated Narrative Storyboarding**. It bridges the gap between text-based sentiment, expressive human-like audio output, and cohesive visual storytelling. 
 
-Built for the **Darwix AI Hackathon Challenges 1 & 2**.
-
 ## ✨ Features
 
 ### 🗣️ Challenge 1: Neural Voice & Emotion Detection
