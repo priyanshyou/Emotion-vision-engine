@@ -11,6 +11,11 @@ A service that **dynamically modulates Text-to-Speech (TTS) vocal characteristic
 - **Offline TTS**: No API keys required — runs fully locally with pyttsx3
 - **Premium Web UI**: Dark-themed glassmorphism interface with live emotion visualization
 - **RESTful API**: Clean JSON API for programmatic access
+<img width="1900" height="1075" alt="image" src="https://github.com/user-attachments/assets/d6cc7dfc-9815-465b-b63f-2851c69fea3d" />
+<img width="1903" height="1072" alt="image" src="https://github.com/user-attachments/assets/b826a4f1-6422-4166-b3c8-8c2217683cf4" />
+<img width="1882" height="1078" alt="image" src="https://github.com/user-attachments/assets/0ddf13c7-6783-4a9d-8bfc-0120fdad6766" />
+
+
 
 ## 🏗️ Architecture
 
